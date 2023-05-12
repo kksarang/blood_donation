@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521626911673",
+    "project_id": "blooddonationapp-fdceb",
+    "storage_bucket": "blooddonationapp-fdceb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521626911673:android:4d5438f1ec8e7a21fe6c68",
+        "android_client_info": {
+          "package_name": "com.example.blood_donation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521626911673-tsif4lfd8lm7aie706jlhs3hr3icj94q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlO5mRGJ9CTX95EpOortH9OmHzWKItopo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521626911673-tsif4lfd8lm7aie706jlhs3hr3icj94q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
